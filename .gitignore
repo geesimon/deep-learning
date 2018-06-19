@@ -16,3 +16,8 @@ face_generation/data/
 
 save*
 tv-script-generation/checkpoint
+
+
+checkpoints/
+semi-supervised/data/
+semi-supervised/images/
